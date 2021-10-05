@@ -45,7 +45,6 @@ namespace FibonacciEvenSum
 
             //write the total out to the screen
             Console.WriteLine($"\n\nGrand Total: {total}");
-            Console.ReadKey();
         }
     }
 }
