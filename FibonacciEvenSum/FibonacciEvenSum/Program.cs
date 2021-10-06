@@ -10,7 +10,7 @@ namespace FibonacciEvenSum
     {
         static void Main(string[] args)
         {
-            //Coding Challenge 3
+            //Coding Challenge 2
             //FibonacciEvenSum
             //Each new term in the Fibonacci sequence is generated
             //by adding the previous two terms.By starting with
